@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Background Image</title>
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      border: 1px solid #FF69B4; /* glowing pink border */
+      box-shadow: 0 0 10px #FF69B4; /* glowing pink shadow */
+    }
+
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+      background-color: #FFFFFF; /* white background for better contrast */
+    }
+
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+
+    /* Add glowing text effect and improve readability */
+    h2, h3, p {
+      text-shadow: 0 0 10px #FF69B4; /* glowing pink color */
+      font-size: 18px; /* increase font size for better readability */
+      font-weight: bold; /* make text bold for easier reading */
+      color: #FFFFFF; /* use a high-contrast color for better visibility */
+      text-align: justify; /* justify text for easier reading */
+      padding: 10px; /* add some padding for better spacing */
+    }
+
+    /* Add glowing effect to table headers */
+    th {
+      background-color: #FFC0CB; /* pastel pink background */
+      color: #FFFFFF; /* white text for better contrast */
+      text-shadow: 0 0 10px #FF69B4; /* glowing pink shadow */
+    }
+  </style>
+</head>
+<body background="digitization-6839721.jpg"><!-- Code injected by live-server -->
+
+<h2>: 01531796863</h2>
+<h2>AMIT KUMAR PODDER</h2>
+<h3>Student</h3>
+<p>: amitpodder766@gmail.com</p>
+<p>: 34/boro bazar, House:34, Road:34,,
+Mymensingh, Mymensingh.</p>
+
+<table>
+  <tr>
+    <td>Date of Birth</td>
+    <td>11/11/2005</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <td>Marital Status</td>
+    <td>Single</td>
+  </tr>
+  <tr>
+    <td>Nationality</td>
+    <td>Bangladesh</td>
+  </tr>
+</table>
+
+<h3>SUMMARY</h3>
+<p>As a committed student with an academic background and a passion for lifelong learning, I
+bring unique skills and experiences to the work I do.</p>
+<p>I am good at writing,programming and Microsoft Office Tools and have more value. Good
+results, on-time delivery and exceeding customer expectations are services I am committed to
+providing. I hope to use my education to provide f services that create value for clients and help
+them succeed.</p>
+<h3>SKILLS</h3>
+
+<table>
+  <tr>
+    <th>English</th>
+    <th>Python</th>
+    <th>Microsoft
+Office</th>
+    <th>PowerPoint</th>
+  </tr>
+  <tr>
+    <td>★★★★★</td>
+    <td>★★★★★</td>
+    <td>★★★★★</td>
+    <td>★★★★★</td>
+  </tr>
+  <tr>
+    <td>Word</td>
+    <td>EXCEL</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>★★★★★</td>
+    <td>★★★★★</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<h3>HOBBIES</h3>
+<p>Coding Reading Books Watching Moives</p>
+
+<h3>REFEREES</h3>
+<p>Available on Request</p>
+</body>
+</html>
